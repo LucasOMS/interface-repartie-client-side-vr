@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1509078876
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9e086cfd34691eb7ee45dfb7bee44ba2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Midwest_Park/Textures/white_beams.png
+- Assets/Midwest_Park/Textures/tree_01.png
+- Assets/Midwest_Park/Textures/net_01.png
+- Assets/Midwest_Park/Textures/seat_01.png
+- Assets/Midwest_Park/Textures/tree_02.png
+- Assets/Midwest_Park/Textures/white_rail.png
+Dependencies: []

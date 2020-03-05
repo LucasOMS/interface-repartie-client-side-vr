@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1340150611
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2086686985b59dde72e528cc35c19216
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Midwest_Park/Textures/lights.tga
+- Assets/Midwest_Park/Textures/seat_02.tga
+- Assets/Midwest_Park/Textures/camera_mics.tga
+- Assets/Midwest_Park/Textures/vent.tga
+- Assets/Midwest_Park/Textures/concrete_02.tga
+- Assets/Midwest_Park/Textures/brick_01.tga
+- Assets/Midwest_Park/Textures/vents.tga
+- Assets/Midwest_Park/Textures/signage_01.tga
+- Assets/Midwest_Park/Textures/brick_02.tga
+- Assets/Midwest_Park/Textures/bench.tga
+- Assets/Midwest_Park/Textures/concrete_01.tga
+- Assets/Midwest_Park/Textures/pitch_pattern_diffuse.tga
+- Assets/Midwest_Park/Textures/stock_02.tga
+- Assets/Midwest_Park/Textures/stock_01.tga
+Dependencies: []
